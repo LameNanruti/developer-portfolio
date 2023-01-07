@@ -7,6 +7,10 @@
   color: #FD6E0A;
 }
 
+.btn-container{
+display: flex;
+}
+
 .btn-primary {
   height: 64px;
   background-color: #FD6E0A;
@@ -17,6 +21,16 @@
   border: 0;
   padding: 18px 35px;
 
+}
+.btn-contact{
+  border: 1px solid #FD6E0A;
+  font-weight: 700;
+  font-size: 20px;
+  color: #FD6E0A;
+  background-color: #fd6f0a00;
+  margin-left: 30px;
+  border-radius: 5px;
+  padding: 18px 35px;
 }
 
 .whole-head {
